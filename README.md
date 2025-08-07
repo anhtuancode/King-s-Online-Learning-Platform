@@ -2,7 +2,7 @@
 
 > ✍️ **Tác giả:** Nguyễn Anh Tuấn  
 > 🛠️ **Dự án:** Nền tảng học trực tuyến toàn diện KOLP  
-> 📬 **Liên hệ:** tuan.code.dev@gmail.com  
+> 📬 **Liên hệ:** anhtuancode@gmail.com  
 
 ---
 
